@@ -1,4 +1,4 @@
-# cs492-python-sqlite3
+# sqlite3-mosques-system
 sqlite3 and tkinter combined for a mosques program
 
 this program is a GUI that takes inputs, save them in a database.
